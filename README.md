@@ -5,4 +5,5 @@
 #### 目录
 编号|标题
 ---|---
-1|[Two Sum](/1-100/1-10/1. Two Sum.md)
+1|[Two Sum](https://github.com/MachelleZhang/LeetCode/blob/master/1-100/1-10/1.%20Two%20Sum.md)
+2|[Two Sum](https://github.com/MachelleZhang/LeetCode/blob/master/1-100/1-10/1. Two Sum.md)
