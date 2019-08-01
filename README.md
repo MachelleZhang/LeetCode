@@ -24,5 +24,7 @@
 26|[Remove Duplicates from Sorted Array](/1-100/21-30/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 27|[Remove Element](/1-100/21-30/27.%20Remove%20Element.md)
 28|[Implement strStr()](/1-100/21-30/28.%20Implement%20strStr().md)
+29|[Divide Two Integers](/1-100/21-30/29.%20Divide%20Two%20Integers.md)
+38|[Count and Say](/1-100/31-40/38.%20Count%20and%20Say.md)
 55|[Jump Game](/1-100/51-60/55.%20Jump%20Game.md)
 
