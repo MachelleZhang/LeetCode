@@ -1,6 +1,6 @@
 ## LeetCode
 
-使用Swift语言，LeetCode解题记录
+使用Swift、JavaScript语言，LeetCode解题记录
 <hr>
 
 #### 目录
@@ -28,4 +28,5 @@
 35|[Search Insert Position](/1-100/31-40/35.%20Search%20Insert%20Position.md)
 38|[Count and Say](/1-100/31-40/38.%20Count%20and%20Say.md)
 55|[Jump Game](/1-100/51-60/55.%20Jump%20Game.md)
+58|[Length of Last Word](/1-100/51-60/58.%20Length%20of%20Last%20Word.md)
 
