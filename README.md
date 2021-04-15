@@ -29,4 +29,5 @@
 38|[Count and Say](/1-100/31-40/38.%20Count%20and%20Say.md)
 55|[Jump Game](/1-100/51-60/55.%20Jump%20Game.md)
 58|[Length of Last Word](/1-100/51-60/58.%20Length%20of%20Last%20Word.md)
+69|[Sqrt(x)](/1-100/61-70/69.%20Sqrt(x).md)
 70|[Climbing Stairs](/1-100/61-70/70.%20Climbing%20Stairs.md)
